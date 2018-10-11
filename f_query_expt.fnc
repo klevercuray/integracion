@@ -41,5 +41,6 @@ BEGIN
 
     --RETURN p_detail_TYPE;
     RETURN p_return;
+	
 END f_query_expt;
 /
