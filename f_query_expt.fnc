@@ -41,6 +41,6 @@ BEGIN
 
     --RETURN p_detail_TYPE;
     RETURN p_return;
-	
+-- Este es un comentario adicional
 END f_query_expt;
 /
